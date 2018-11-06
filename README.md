@@ -1,4 +1,4 @@
-Where can i run this notebook?
+Where can I run this notebook?
 ===
 
 Microsoft / Azure cloud is a good place to start.
@@ -18,7 +18,7 @@ The ideal case would be to find the right green vegetation index of a crop
 
 Try it out
 ===
-[https://notebooks.azure.com/redcom/libraries/green-color-extraction]()
+[https://notebooks.azure.com/redcom/libraries/green-color-extraction](https://notebooks.azure.com/redcom/libraries/green-color-extraction)
 
 
 Notes:
