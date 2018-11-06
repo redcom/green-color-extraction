@@ -16,4 +16,12 @@ Some are using HSV colorpalete some are plain matrix manipulation using numpy an
 
 The ideal case would be to find the right green vegetation index of a crop
 
+Try it out
+===
+[https://notebooks.azure.com/redcom/libraries/green-color-extraction]()
+
+
+Notes:
+===
+Contributions are more than welcome
 
