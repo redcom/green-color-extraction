@@ -25,3 +25,9 @@ Notes:
 ===
 Contributions are more than welcome
 
+Literature:
+ - https://www.sciencedirect.com/science/article/pii/S2214317315000347#f0005
+ - http://marksolters.com/programming/2015/02/27/rgb-histograph.html
+ - https://medium.com/@jamesthesken/crop-row-detection-using-python-and-opencv-93e456ddd974
+
+
